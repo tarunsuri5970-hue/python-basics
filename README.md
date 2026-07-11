@@ -6,5 +6,6 @@ This repository contains my python practice programs.
 - Variables
 - Data Types
 - Operators
+- string
 
 I will continue updating this repository as I learn python.
