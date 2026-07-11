@@ -1,4 +1,4 @@
-TOPIC COVERED:
+TOPIC COVERED:....
 Variables
 Data Types
 Operators
