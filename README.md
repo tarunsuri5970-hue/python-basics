@@ -1,4 +1,4 @@
-# Basic C++
+# Basic python
 
 This repository contains my python practice programs.
 
