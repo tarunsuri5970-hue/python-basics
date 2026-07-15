@@ -7,7 +7,9 @@ This repository contains my python practice programs.
 - Data Types
 - Operators
 - conditional statement
+- string
 - lists and tuple
+- dictionary and  sets
 - loops
 - function and recursion
 - file input and  output
